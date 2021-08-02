@@ -13,7 +13,7 @@ Teammate Checkins
 --------
 3.
 --------
-4.
+4. This is Chris's check-in
 --------
 5.  This is Kate's check-in
 --------

@@ -9,7 +9,7 @@ Teammate Checkins
 ------
 1.
 --------
-2. Harry was here
+2. Harry was here 
 --------
 3. This is Sarah's check-in
 --------

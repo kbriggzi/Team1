@@ -11,7 +11,7 @@ Teammate Checkins
 --------
 2.
 --------
-3.
+3. This is Sarah's check-in
 --------
 4.  This is Chris's changed check-in
 --------

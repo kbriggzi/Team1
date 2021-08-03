@@ -9,11 +9,11 @@ Teammate Checkins
 ------
 1.
 --------
-2.
+2. Harry was here 
 --------
-3.
+3. This is Sarah's check-in
 --------
-4. This is Chris's check-in
+4.  This is Chris's changed check-in
 --------
 5.  This is Kate's check-in
 --------

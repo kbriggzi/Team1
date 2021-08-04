@@ -7,7 +7,7 @@ Project Git Practice and Project Repository
 Teammate Checkins
 
 ------
-1.Anjelique was here.
+1. Anjelique was here.
 --------
 2. Harry was here again!
 --------
@@ -17,4 +17,4 @@ Teammate Checkins
 --------
 5.  This is Kate's check-in
 --------
-
+Updating Readme to check Lambda Event

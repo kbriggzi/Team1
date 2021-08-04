@@ -7,7 +7,7 @@ Project Git Practice and Project Repository
 Teammate Checkins
 
 ------
-1.
+1.Anjelique was here.
 --------
 2. Harry was here again!
 --------

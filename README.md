@@ -17,4 +17,3 @@ Teammate Checkins
 --------
 5.  This is Kate's check-in
 --------
-Updating Readme to check Lambda Event
